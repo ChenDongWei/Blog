@@ -7,12 +7,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>${pageTitle }-Powered by java1234</title>
+<title>${pageTitle }-Powered by blog</title>
 
 <link rel="stylesheet" href="${pageContext.request.contextPath}/static/bootstrap3/css/bootstrap.min.css">
 <link rel="stylesheet" href="${pageContext.request.contextPath}/static/bootstrap3/css/bootstrap-theme.min.css">
 <link rel="stylesheet" href="${pageContext.request.contextPath}/static/css/blog.css">
-<link href="http://blog.java1234.com/favicon.ico" rel="SHORTCUT ICON">
+<link href="http://blog.blog.com/favicon.ico" rel="SHORTCUT ICON">
 <script src="${pageContext.request.contextPath}/static/bootstrap3/js/jquery-1.11.2.min.js"></script>
 <script src="${pageContext.request.contextPath}/static/bootstrap3/js/bootstrap.min.js"></script>
 
